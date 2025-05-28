@@ -1,5 +1,6 @@
 # Heart_Disease_Prediction
 
+![Uploading image.png…]()
 
 
 Heart disease is one of the leading causes of mortality worldwide. Early prediction of heart disease can save lives by enabling timely medical intervention. This project demonstrates the use of machine learning to analyze patient data and predict the likelihood of heart disease.
